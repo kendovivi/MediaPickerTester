@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- ギャラリー -->
+
+    <GridView
+        android:id="@+id/gallery_grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="4"
+        android:columnWidth="90dp" />
+
+    <!-- 写真 -->
+
+
+
+    <!-- 動画 -->
+
+</android.support.constraint.ConstraintLayout>
